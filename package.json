@@ -1,7 +1,7 @@
 {
   "name": "react-json-to-form",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "packageManager": "pnpm@8.7.5",
   "scripts": {
@@ -18,8 +18,8 @@
   },
   "devDependencies": {
     "@arco-design/web-react": "^2.52.2",
-    "@arco-plugins/vite-react": "^1.3.3",
-    "@arco-themes/react-easytwin": "^0.0.4",
+    "@arco-plugins/vite-react": "1.3.3",
+    "@arco-themes/react-easytwin": "0.0.4",
     "@easyv/react-components": "^0.0.3",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
